@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "exported_at_utc": "2026-06-02T09:26:00.873581+00:00",
+  "exported_at_local": "2026-06-02 10:26:00",
+  "selection_date_local": "2026-06-02",
+  "source_version": "v2.43",
+  "game_count": 7,
+  "games": [
+    {
+      "event_id": "35656688",
+      "event_name": "Croatia v Belgium",
+      "match_odds_market_id": "1.258665596",
+      "scheduled_start_at_utc": "2026-06-02T16:00:00+00:00"
+    },
+    {
+      "event_id": "35673428",
+      "event_name": "RoPS v OLS",
+      "match_odds_market_id": "1.258800270",
+      "scheduled_start_at_utc": "2026-06-02T16:00:00+00:00"
+    },
+    {
+      "event_id": "35673599",
+      "event_name": "Boston River (Res) v Defensor Sporting (Res)",
+      "match_odds_market_id": "1.258801605",
+      "scheduled_start_at_utc": "2026-06-02T17:00:00+00:00"
+    },
+    {
+      "event_id": "35656686",
+      "event_name": "Georgia v Romania",
+      "match_odds_market_id": "1.258665475",
+      "scheduled_start_at_utc": "2026-06-02T17:00:00+00:00"
+    },
+    {
+      "event_id": "35675648",
+      "event_name": "Jerv U19 v Gimletroll U19",
+      "match_odds_market_id": "1.258819925",
+      "scheduled_start_at_utc": "2026-06-02T18:00:00+00:00"
+    },
+    {
+      "event_id": "35673600",
+      "event_name": "Liverpool Montevideo (Res) v Progreso (Res)",
+      "match_odds_market_id": "1.258801874",
+      "scheduled_start_at_utc": "2026-06-02T18:00:00+00:00"
+    },
+    {
+      "event_id": "35656671",
+      "event_name": "Wales v Ghana",
+      "match_odds_market_id": "1.258665017",
+      "scheduled_start_at_utc": "2026-06-02T18:45:00+00:00"
+    }
+  ]
+}
