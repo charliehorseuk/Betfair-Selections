@@ -1,34 +1,46 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-06-03T11:01:46.003651+00:00",
-  "exported_at_local": "2026-06-03 12:01:46",
-  "selection_date_local": "2026-06-03",
-  "source_version": "v2.43",
-  "game_count": 4,
+  "exported_at_utc": "2026-06-06T09:35:50.277265+00:00",
+  "exported_at_local": "2026-06-06 10:35:50",
+  "selection_date_local": "2026-06-06",
+  "source_version": "v2.44",
+  "game_count": 6,
   "games": [
     {
-      "event_id": "35681082",
-      "event_name": "Montenegro U19 v Georgia U19",
-      "match_odds_market_id": "1.258854901",
-      "scheduled_start_at_utc": "2026-06-03T15:00:00+00:00"
+      "event_id": "35688208",
+      "event_name": "Valerenga II v Nordstrand",
+      "match_odds_market_id": "1.258923121",
+      "scheduled_start_at_utc": "2026-06-06T11:00:00+00:00"
     },
     {
-      "event_id": "35675679",
-      "event_name": "SV Leobendorf v FCM TQS Traiskirchen",
-      "match_odds_market_id": "1.258820274",
-      "scheduled_start_at_utc": "2026-06-03T17:30:00+00:00"
+      "event_id": "35675682",
+      "event_name": "Vendsyssel FF v Naestved",
+      "match_odds_market_id": "1.258819458",
+      "scheduled_start_at_utc": "2026-06-06T12:00:00+00:00"
     },
     {
-      "event_id": "35657911",
-      "event_name": "Vasalunds IF v FC Jarfalla",
-      "match_odds_market_id": "1.258672337",
-      "scheduled_start_at_utc": "2026-06-03T17:30:00+00:00"
+      "event_id": "35687723",
+      "event_name": "Atlantis v HIFK",
+      "match_odds_market_id": "1.258913217",
+      "scheduled_start_at_utc": "2026-06-06T13:00:00+00:00"
     },
     {
-      "event_id": "35660220",
-      "event_name": "Netherlands v Algeria",
-      "match_odds_market_id": "1.258691609",
-      "scheduled_start_at_utc": "2026-06-03T18:45:00+00:00"
+      "event_id": "35687022",
+      "event_name": "Fjolnir v Selfoss",
+      "match_odds_market_id": "1.258906071",
+      "scheduled_start_at_utc": "2026-06-06T14:00:00+00:00"
+    },
+    {
+      "event_id": "35677933",
+      "event_name": "Gefle v Hammarby TFF",
+      "match_odds_market_id": "1.258831855",
+      "scheduled_start_at_utc": "2026-06-06T14:00:00+00:00"
+    },
+    {
+      "event_id": "35688109",
+      "event_name": "Skiljebo v Enskede",
+      "match_odds_market_id": "1.258917032",
+      "scheduled_start_at_utc": "2026-06-06T14:00:00+00:00"
     }
   ]
 }
