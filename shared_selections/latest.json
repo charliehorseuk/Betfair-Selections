@@ -1,52 +1,9 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-02T08:44:28.011972+00:00",
-  "exported_at_local": "2026-07-02 09:44:28",
+  "exported_at_utc": "2026-07-02T08:50:37.561246+00:00",
+  "exported_at_local": "2026-07-02 09:50:37",
   "selection_date_local": "2026-07-02",
   "source_version": "mobile-panel-v1",
-  "game_count": 7,
-  "games": [
-    {
-      "event_id": "35775699",
-      "event_name": "Transport United FC v Drukpa FC",
-      "match_odds_market_id": "1.259619236",
-      "scheduled_start_at_utc": "2026-07-02T12:00:00.000Z"
-    },
-    {
-      "event_id": "35777871",
-      "event_name": "Croatia U19 v Italy U19",
-      "match_odds_market_id": "1.259633872",
-      "scheduled_start_at_utc": "2026-07-02T13:00:00.000Z"
-    },
-    {
-      "event_id": "35780497",
-      "event_name": "Argentino de Merlo (Res) v CA Excursionistas (Res)",
-      "match_odds_market_id": "1.259659683",
-      "scheduled_start_at_utc": "2026-07-02T17:00:00.000Z"
-    },
-    {
-      "event_id": "35770966",
-      "event_name": "Thor v KR Reykjavik",
-      "match_odds_market_id": "1.259569366",
-      "scheduled_start_at_utc": "2026-07-02T17:00:00.000Z"
-    },
-    {
-      "event_id": "35778915",
-      "event_name": "Cove Rangers v Turriff",
-      "match_odds_market_id": "1.259647698",
-      "scheduled_start_at_utc": "2026-07-02T18:00:00.000Z"
-    },
-    {
-      "event_id": "35768365",
-      "event_name": "Spain v Austria",
-      "match_odds_market_id": "1.259557716",
-      "scheduled_start_at_utc": "2026-07-02T19:00:00.000Z"
-    },
-    {
-      "event_id": "35770970",
-      "event_name": "Vikingur Reykjavik v KA Akureyri",
-      "match_odds_market_id": "1.259568713",
-      "scheduled_start_at_utc": "2026-07-02T19:15:00.000Z"
-    }
-  ]
+  "game_count": 0,
+  "games": []
 }
