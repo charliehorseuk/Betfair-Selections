@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-02T08:43:56.445790+00:00",
-  "exported_at_local": "2026-07-02 09:43:56",
+  "exported_at_utc": "2026-07-02T08:44:28.011972+00:00",
+  "exported_at_local": "2026-07-02 09:44:28",
   "selection_date_local": "2026-07-02",
   "source_version": "mobile-panel-v1",
-  "game_count": 6,
+  "game_count": 7,
   "games": [
     {
       "event_id": "35775699",
@@ -41,6 +41,12 @@
       "event_name": "Spain v Austria",
       "match_odds_market_id": "1.259557716",
       "scheduled_start_at_utc": "2026-07-02T19:00:00.000Z"
+    },
+    {
+      "event_id": "35770970",
+      "event_name": "Vikingur Reykjavik v KA Akureyri",
+      "match_odds_market_id": "1.259568713",
+      "scheduled_start_at_utc": "2026-07-02T19:15:00.000Z"
     }
   ]
 }
