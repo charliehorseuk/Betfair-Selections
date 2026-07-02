@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-02T06:13:39.211841+00:00",
-  "exported_at_local": "2026-07-02 07:13:39",
+  "exported_at_utc": "2026-07-02T06:17:57.178213+00:00",
+  "exported_at_local": "2026-07-02 07:17:57",
   "selection_date_local": "2026-07-02",
   "source_version": "mobile-panel-v1",
-  "game_count": 4,
+  "game_count": 6,
   "games": [
     {
       "event_id": "35779722",
@@ -29,6 +29,18 @@
       "event_name": "MFD Zalgiris Vilnius (Res) v Hegelmann Litauen B",
       "match_odds_market_id": "1.259645918",
       "scheduled_start_at_utc": "2026-07-02T15:00:00.000Z"
+    },
+    {
+      "event_id": "35778556",
+      "event_name": "Varazdin v FC Voluntari",
+      "match_odds_market_id": "1.259645780",
+      "scheduled_start_at_utc": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "event_id": "35766892",
+      "event_name": "Kuressaare v Tallinna FC Flora",
+      "match_odds_market_id": "1.259545534",
+      "scheduled_start_at_utc": "2026-07-02T16:00:00.000Z"
     }
   ]
 }
