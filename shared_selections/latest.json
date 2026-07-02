@@ -1,9 +1,28 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-02T08:51:17.086218+00:00",
-  "exported_at_local": "2026-07-02 09:51:17",
+  "exported_at_utc": "2026-07-02T09:54:12.510625+00:00",
+  "exported_at_local": "2026-07-02 10:54:12",
   "selection_date_local": "2026-07-02",
   "source_version": "mobile-panel-v1",
-  "game_count": 0,
-  "games": []
+  "game_count": 3,
+  "games": [
+    {
+      "event_id": "35766898",
+      "event_name": "Lyn v Asane",
+      "match_odds_market_id": "1.259545842",
+      "scheduled_start_at_utc": "2026-07-02T16:00:00.000Z"
+    },
+    {
+      "event_id": "35770966",
+      "event_name": "Thor v KR Reykjavik",
+      "match_odds_market_id": "1.259569366",
+      "scheduled_start_at_utc": "2026-07-02T17:00:00.000Z"
+    },
+    {
+      "event_id": "35770970",
+      "event_name": "Vikingur Reykjavik v KA Akureyri",
+      "match_odds_market_id": "1.259568713",
+      "scheduled_start_at_utc": "2026-07-02T19:15:00.000Z"
+    }
+  ]
 }
