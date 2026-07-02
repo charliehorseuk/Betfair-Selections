@@ -1,16 +1,22 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-02T06:25:02.168270+00:00",
-  "exported_at_local": "2026-07-02 07:25:02",
+  "exported_at_utc": "2026-07-02T06:26:00.604294+00:00",
+  "exported_at_local": "2026-07-02 07:26:00",
   "selection_date_local": "2026-07-02",
   "source_version": "mobile-panel-v1",
-  "game_count": 1,
+  "game_count": 2,
   "games": [
     {
-      "event_id": "35773399",
-      "event_name": "BFA Vilnius v FK Panevezio Ekranas",
-      "match_odds_market_id": "1.259592446",
-      "scheduled_start_at_utc": "2026-07-02T15:00:00.000Z"
+      "event_id": "35768365",
+      "event_name": "Spain v Austria",
+      "match_odds_market_id": "1.259557716",
+      "scheduled_start_at_utc": "2026-07-02T19:00:00.000Z"
+    },
+    {
+      "event_id": "35780172",
+      "event_name": "Dundee B v Peterhead",
+      "match_odds_market_id": "1.259659186",
+      "scheduled_start_at_utc": "2026-07-02T19:00:00.000Z"
     }
   ]
 }
