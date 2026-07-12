@@ -1,34 +1,40 @@
 {
   "schema_version": 1,
-  "exported_at_utc": "2026-07-04T09:23:43.943108+00:00",
-  "exported_at_local": "2026-07-04 10:23:43",
-  "selection_date_local": "2026-07-04",
+  "exported_at_utc": "2026-07-12T10:43:29.862930+00:00",
+  "exported_at_local": "2026-07-12 11:43:29",
+  "selection_date_local": "2026-07-12",
   "source_version": "mobile-panel-v1",
-  "game_count": 4,
+  "game_count": 5,
   "games": [
     {
-      "event_id": "35766391",
-      "event_name": "Beijing Guoan v Shandong Taishan",
-      "match_odds_market_id": "1.259546120",
-      "scheduled_start_at_utc": "2026-07-04T11:35:00.000Z"
+      "event_id": "35792866",
+      "event_name": "Hammarby v Kalmar FF",
+      "match_odds_market_id": "1.259767377",
+      "scheduled_start_at_utc": "2026-07-12T12:00:00.000Z"
     },
     {
-      "event_id": "35766902",
-      "event_name": "Hodd v Stromsgodset",
-      "match_odds_market_id": "1.259550001",
-      "scheduled_start_at_utc": "2026-07-04T14:00:00.000Z"
+      "event_id": "35744692",
+      "event_name": "Kfum Oslo v Bodo Glimt",
+      "match_odds_market_id": "1.259355387",
+      "scheduled_start_at_utc": "2026-07-12T12:30:00.000Z"
     },
     {
-      "event_id": "35766917",
-      "event_name": "Bryne v Sandnes Ulf",
-      "match_odds_market_id": "1.259549891",
-      "scheduled_start_at_utc": "2026-07-04T16:00:00.000Z"
+      "event_id": "35744682",
+      "event_name": "Brann v Start",
+      "match_odds_market_id": "1.259355735",
+      "scheduled_start_at_utc": "2026-07-12T15:00:00.000Z"
     },
     {
-      "event_id": "35773448",
-      "event_name": "Paide Linnameeskond v Parnu JK Vaprus",
-      "match_odds_market_id": "1.259591280",
-      "scheduled_start_at_utc": "2026-07-04T16:00:00.000Z"
+      "event_id": "35797470",
+      "event_name": "Fram v Thor",
+      "match_odds_market_id": "1.259810009",
+      "scheduled_start_at_utc": "2026-07-12T18:00:00.000Z"
+    },
+    {
+      "event_id": "35793884",
+      "event_name": "KR Reykjavik v IBV",
+      "match_odds_market_id": "1.259779699",
+      "scheduled_start_at_utc": "2026-07-12T18:00:00.000Z"
     }
   ]
 }
